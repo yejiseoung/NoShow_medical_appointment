@@ -2,7 +2,7 @@
 
 ## Dataset
 
-[Medical Appointment No Shows]('https://www.kaggle.com/joniarroba/noshowappointments') has 100,527 medical appointments with 14 variables (features). By using this dataset, we tried to investigate who is going to miss the appointment and which features made them miss the appointment days. 
+[Medical Appointment No Shows](https://www.kaggle.com/joniarroba/noshowappointments) has 100,527 medical appointments with 14 variables (features). By using this dataset, we tried to investigate who is going to miss the appointment and which features made them miss the appointment days. 
 
 ## Summary of Findings
 
